@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "jobs":[
+    { "id": 1, "name": "Ban hang online"},
+    { "id": 2, "name": "Lap trinh vien"}
+  ]
 }
