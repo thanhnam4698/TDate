@@ -13,6 +13,7 @@
   },
   "jobs":[
     { "id": 1, "name": "Ban hang online", "hotjob": 0},
-    { "id": 2, "name": "Lap trinh vien", "hotjob": 1}
+    { "id": 2, "name": "Lap trinh vien", "hotjob": 1},
+    { "id": 3, "name": "Lap trinh vien", "hotjob": 0},
   ]
 }
