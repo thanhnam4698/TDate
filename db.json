@@ -1,19 +1,1051 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "jobs":[
-    { "id": 1, "name": "Ban hang online", "hotjob": 0},
-    { "id": 2, "name": "Lap trinh vien", "hotjob": 1}
-    
-  ]
+   "results": [
+      {
+         "hits": [
+            {
+               "jobId": 1112753,
+               "jobTitle": "Giám Đốc Phòng Quan Hệ Đối Tác Ô Tô",
+               "alias": "giam-doc-phong-quan-he-doi-tac-o-to-1",
+               "onlineDate": 1559552590,
+               "isSalaryVisible": 0,
+               "isShowLogo": 1,
+               "isShowLogoInSearchResult": 0,
+               "company": "Ngân Hàng TMCP Quốc Tế Việt Nam (VIB)",
+               "salaryMin": 500,
+               "salaryMax": 800,
+               "jobSalary": 800,
+               "jobDescription": "- Xây dựng chính sách, quy định về việc lựa chọn và phát triển đối tác phù hợp với chiến lược kinh doanh của Khối Ngân hàng Bán lẻ;\r\n- Thực hiện đánh giá, thẩm định và đề xuất việc hợp tác với các đối tác tiềm năng lên cấp phê duyệt có thẩm quyền nhằm phát triển thị trường và mở rộng mạng lưới khách hàng;\r\n- Triển khai và quản lý các chương trình hợp tác với các đối tác để đảm bảo cân bằng rủi ro và lợi nhuận cho VIB;\r\n- Quản lý hiệu quả ngân sách đã được phê duyệt; Lập kế hoạch, tổ chức triển khai thực hiện công việc; Phân công, huấn luyện, giám sát và đánh giá hiệu quả làm việc của nhân viên cấp dưới để đảm bảo hoàn thành kế hoạch công việc được giao;\r\n- Thực hiện các nhiệm vụ khác theo phân công của cấp quản lý.",
+               "companyId": 36138,
+               "channel": "top_management",
+               "expiredDate": 1562173199,
+               "locationVIs": [
+                  "Hà Nội"
+               ],
+               "locations": [
+                  "Ha Noi"
+               ],
+               "locationIds": [
+                  24
+               ],
+               "categoryVIs": [
+                  "Cấp quản lý điều hành",
+                  "Ngân hàng"
+               ],
+               "categories": [
+                  "Executive management",
+                  "Banking"
+               ],
+               "categoryIds": [
+                  17,
+                  42
+               ],
+               "benefits": [
+                  {
+                     "benefitIconName": "fa-dollar",
+                     "benefitValue": "lương tháng 13",
+                     "benefitId": 1
+                  },
+                  {
+                     "benefitIconName": "fa-user-md",
+                     "benefitValue": "Khám sức khỏe định kỳ hàng năm",
+                     "benefitId": 2
+                  },
+                  {
+                     "benefitIconName": "fa-graduation-cap",
+                     "benefitValue": "tham gia các chương trình dạo tạo hay",
+                     "benefitId": 4
+                  }
+               ],
+               "companyLogo": "https://images.vietnamworks.com/pictureofcompany/4d/10304834.png",
+               "companyImage": "https://images.vietnamworks.com/company_profile/43746.jpg",
+               "mainCompanyId": 36138,
+               "premiumService": "TMJ",
+               "TMJOrder": 1559552590,
+               "objectID": "1112753",
+               "_highlightResult": {
+                  "jobTitle": {
+                     "value": "Giám Đốc Phòng Quan Hệ Đối Tác Ô Tô",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "company": {
+                     "value": "Ngân Hàng TMCP Quốc Tế Việt Nam (VIB)",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "jobDescription": {
+                     "value": "- Xây dựng chính sách, quy định về việc lựa chọn và phát triển đối tác phù hợp với chiến lược kinh doanh của Khối Ngân hàng Bán lẻ;\r\n- Thực hiện đánh giá, thẩm định và đề xuất việc hợp tác với các đối tác tiềm năng lên cấp phê duyệt có thẩm quyền nhằm phát triển thị trường và mở rộng mạng lưới khách hàng;\r\n- Triển khai và quản lý các chương trình hợp tác với các đối tác để đảm bảo cân bằng rủi ro và lợi nhuận cho VIB;\r\n- Quản lý hiệu quả ngân sách đã được phê duyệt; Lập kế hoạch, tổ chức triển khai thực hiện công việc; Phân công, huấn luyện, giám sát và đánh giá hiệu quả làm việc của nhân viên cấp dưới để đảm bảo hoàn thành kế hoạch công việc được giao;\r\n- Thực hiện các nhiệm vụ khác theo phân công của cấp quản lý.",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  }
+               }
+            },
+            {
+               "jobId": "1111883",
+               "jobTitle": "Regional Sales Manager (Vietnam Territories)",
+               "alias": "regional-sales-manager-vietnam-territories",
+               "onlineDate": 1559294718,
+               "isSalaryVisible": 0,
+               "isShowLogo": 1,
+               "isShowLogoInSearchResult": 0,
+               "company": "A. T.c. Supply (1993) CO., Ltd., Head Office",
+               "salaryMin": 300,
+               "salaryMax": 0,
+               "jobSalary": 300,
+               "jobDescription": "* Achieve growth and hit sales targets.\n* Design and implement a strategic business plan that expands company’s customer base and ensure it’s strong presence.\n* Own objectives setting, coaching and performance monitoring.\n* Build and promote strong, long-lasting customer relationships by partnering with them and understanding their needs.\n* Present sales, revenue and expenses reports and realistic forecasts to the management team Identify emerging markets and market shifts while being fully aware of new products and competition status.",
+               "companyId": 306742,
+               "channel": "top_management",
+               "expiredDate": 1561913999,
+               "locationVIs": [
+                  "Đà Nẵng",
+                  "Hà Nội",
+                  "Hồ Chí Minh"
+               ],
+               "locations": [
+                  "Da Nang",
+                  "Ha Noi",
+                  "Ho Chi Minh"
+               ],
+               "locationIds": [
+                  17,
+                  24,
+                  29
+               ],
+               "categoryVIs": [
+                  "Nông nghiệp/Lâm nghiệp",
+                  "Cấp quản lý điều hành",
+                  "Bán hàng"
+               ],
+               "categories": [
+                  "Agriculture/Forestry",
+                  "Executive management",
+                  "Sales"
+               ],
+               "categoryIds": [
+                  4,
+                  17,
+                  33
+               ],
+               "benefits": [
+                  {
+                     "benefitIconName": "fa-dollar",
+                     "benefitValue": "Competitive salary and commission",
+                     "benefitId": 1
+                  },
+                  {
+                     "benefitIconName": "fa-user-md",
+                     "benefitValue": "Social insurance, health insurance, unemployment insurance according to Labor Laws",
+                     "benefitId": 2
+                  },
+                  {
+                     "benefitIconName": "fa-glass",
+                     "benefitValue": "Professional, dynamic working environment",
+                     "benefitId": 10
+                  }
+               ],
+               "companyLogo": "https://images.vietnamworks.com/pictureofcompany/36/10813619.png",
+               "mainCompanyId": 306742,
+               "premiumService": "TMJ",
+               "TMJOrder": 1559294718,
+               "objectID": "1111883",
+               "_highlightResult": {
+                  "jobTitle": {
+                     "value": "Regional Sales Manager (Vietnam Territories)",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "company": {
+                     "value": "A. T.c. Supply (1993) CO., Ltd., Head Office",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "jobDescription": {
+                     "value": "* Achieve growth and hit sales targets.\n* Design and implement a strategic business plan that expands company’s customer base and ensure it’s strong presence.\n* Own objectives setting, coaching and performance monitoring.\n* Build and promote strong, long-lasting customer relationships by partnering with them and understanding their needs.\n* Present sales, revenue and expenses reports and realistic forecasts to the management team Identify emerging markets and market shifts while being fully aware of new products and competition status.",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  }
+               }
+            },
+            {
+               "jobId": 1104614,
+               "jobTitle": "Phó Giám Đốc Chi Nhánh TPHCM Phụ Trách Lữ Hành",
+               "alias": "pho-giam-doc-chi-nhanh-tphcm-phu-trach-lu-hanh",
+               "onlineDate": 1559198161,
+               "isSalaryVisible": 0,
+               "isShowLogo": 1,
+               "isShowLogoInSearchResult": 0,
+               "company": "Công Ty Cổ Phần Du Lịch Lâm Đồng",
+               "salaryMin": 300,
+               "salaryMax": 0,
+               "jobSalary": 300,
+               "jobDescription": "Company Benefits\n-\tMức lương: Thỏa thuận. \n-\tThưởng các ngày lễ, tết, lương tháng 13 theo quy định, thưởng vượt doanh thu cuối năm hấp dẫn.\n-\tLàm việc trong môi trường thân thiện, chuyên nghiệp và năng động.\n-\tĐầy đủ chế độ theo luật lao động (Phép năm; BHXH; BHTN, BHYT...) và các chế độ phúc lợi của Công ty\n-\tĐược tham quan du lịch, nghỉ mát hàng năm\n-\tCó cơ hội thăng tiến, có điều kiện khẳng định bản thân.\n\nCông việc chính:\n-\tGiúp Giám đốc quản lý điều hành công việc kinh doanh các dịch vụ tại Chi nhánh TPHCM.\n-\tGiúp GĐ Chi nhánh chịu trách nhiệm về mảng dịch vụ lữ hành của Công ty.\n-\tNghiên cứu thị trường, phân tích đối thủ cạnh tranh và các sản phẩm của họ. Phối hợp với Phòng Kinh doanh & Tiếp thị nghiên cứu khách hàng tiềm năng từ đó đưa ra các sản phẩm mới và chiến lược kinh doanh cụ thể, tổ chức triển khai việc khai thác tìm kiếm kênh bán hàng nhằm thúc đẩy kinh doanh hiệu quả các sản phẩm Tour (Inbound, land tour) tại thị trường Đà Lạt.\n-\tTổ chức tìm kiếm, khảo sát thực địa và xây dựng những chương trình tour, sản phẩm dịch vụ mới lạ phù hợp với thị trường và mục tiêu Công ty đang hướng đến.\n-\tGiúp GĐ Chi nhánh xây dựng kế hoạch ngân sách, định mức chi phí hoạt động cho từng mảng: Tour inbound, sự kiện, land tour …..\n-\tĐề xuất các chiến lược về Marketing, quảng cáo, truyền thông phù hợp với định hướng phát triển về mặt Lữ hành của Công ty.\n-\tTham gia vào công tác tuyển dụng và đào tạo chuyên môn cho nhân sự mảng Lữ hành.\n-\tGiúp Giám đốc CN tư vấn, đàm phán và thực hiện việc ký kết hợp đồng về Lữ hành với khách hàng.\n-     Thực hiện các nhiệm vụ do Giám đốc Chi nhánh ủy quyền.",
+               "companyId": 258604,
+               "channel": "top_management",
+               "expiredDate": 1560617999,
+               "locationVIs": [
+                  "Hồ Chí Minh"
+               ],
+               "locations": [
+                  "Ho Chi Minh"
+               ],
+               "locationIds": [
+                  29
+               ],
+               "categoryVIs": [
+                  "Cấp quản lý điều hành",
+                  "Hàng không/Du lịch",
+                  "Hoạch định/Dự án"
+               ],
+               "categories": [
+                  "Executive management",
+                  "Airlines/Tourism",
+                  "Planning/Projects"
+               ],
+               "categoryIds": [
+                  17,
+                  37,
+                  69
+               ],
+               "benefits": [
+                  {
+                     "benefitIconName": "fa-dollar",
+                     "benefitValue": "Một mức lương cơ sở cạnh tranh, tăng lương theo quy định của Công ty",
+                     "benefitId": 1
+                  },
+                  {
+                     "benefitIconName": "fa-graduation-cap",
+                     "benefitValue": "Được tham gia các khóa đào tạo về chuyên môn nghiệp vụ",
+                     "benefitId": 4
+                  },
+                  {
+                     "benefitIconName": "fa-glass",
+                     "benefitValue": "Môi trường làm việc năng động, thân thiện",
+                     "benefitId": 10
+                  }
+               ],
+               "companyLogo": "https://images.vietnamworks.com/pictureofcompany/9d/10806998.png",
+               "mainCompanyId": 258604,
+               "premiumService": "TMJ",
+               "TMJOrder": 1559198161,
+               "objectID": "1104614",
+               "_highlightResult": {
+                  "jobTitle": {
+                     "value": "Phó Giám Đốc Chi Nhánh TPHCM Phụ Trách Lữ Hành",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "company": {
+                     "value": "Công Ty Cổ Phần Du Lịch Lâm Đồng",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "jobDescription": {
+                     "value": "Company Benefits\n-\tMức lương: Thỏa thuận. \n-\tThưởng các ngày lễ, tết, lương tháng 13 theo quy định, thưởng vượt doanh thu cuối năm hấp dẫn.\n-\tLàm việc trong môi trường thân thiện, chuyên nghiệp và năng động.\n-\tĐầy đủ chế độ theo luật lao động (Phép năm; BHXH; BHTN, BHYT...) và các chế độ phúc lợi của Công ty\n-\tĐược tham quan du lịch, nghỉ mát hàng năm\n-\tCó cơ hội thăng tiến, có điều kiện khẳng định bản thân.\n\nCông việc chính:\n-\tGiúp Giám đốc quản lý điều hành công việc kinh doanh các dịch vụ tại Chi nhánh TPHCM.\n-\tGiúp GĐ Chi nhánh chịu trách nhiệm về mảng dịch vụ lữ hành của Công ty.\n-\tNghiên cứu thị trường, phân tích đối thủ cạnh tranh và các sản phẩm của họ. Phối hợp với Phòng Kinh doanh & Tiếp thị nghiên cứu khách hàng tiềm năng từ đó đưa ra các sản phẩm mới và chiến lược kinh doanh cụ thể, tổ chức triển khai việc khai thác tìm kiếm kênh bán hàng nhằm thúc đẩy kinh doanh hiệu quả các sản phẩm Tour (Inbound, land tour) tại thị trường Đà Lạt.\n-\tTổ chức tìm kiếm, khảo sát thực địa và xây dựng những chương trình tour, sản phẩm dịch vụ mới lạ phù hợp với thị trường và mục tiêu Công ty đang hướng đến.\n-\tGiúp GĐ Chi nhánh xây dựng kế hoạch ngân sách, định mức chi phí hoạt động cho từng mảng: Tour inbound, sự kiện, land tour …..\n-\tĐề xuất các chiến lược về Marketing, quảng cáo, truyền thông phù hợp với định hướng phát triển về mặt Lữ hành của Công ty.\n-\tTham gia vào công tác tuyển dụng và đào tạo chuyên môn cho nhân sự mảng Lữ hành.\n-\tGiúp Giám đốc CN tư vấn, đàm phán và thực hiện việc ký kết hợp đồng về Lữ hành với khách hàng.\n-     Thực hiện các nhiệm vụ do Giám đốc Chi nhánh ủy quyền.",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  }
+               }
+            },
+            {
+               "jobId": 1110576,
+               "jobTitle": "Construction Project Planning Manager",
+               "alias": "construction-project-planning-manager",
+               "onlineDate": 1559131947,
+               "isSalaryVisible": 1,
+               "isShowLogo": 1,
+               "isShowLogoInSearchResult": 0,
+               "company": "Công Ty Cổ Phần Nước Mặt Sông Hồng",
+               "salaryMin": 500,
+               "salaryMax": 1000,
+               "jobSalary": 1000,
+               "jobDescription": "• Work closely with Employer, Designers and Contractors to develop and maintain detailed schedules of Design/Build construction projects using MS Project 2016 or Primavera P3 or P6\r\n• Integrate multiple schedules into a master project schedule, base line, status, and perform measurement baseline. \r\n• Develop and maintain summary level schedule reports: Gantt, milestone charts, and other tools used to support critical path analysis, near-term tasks work, priority-based resource allocations, performance variances, and to support cost/schedule integration.\r\n• Gather and analyse information to prepare reports on the progress of \r\nprojects. Frequent on -site visits to review construction progress required. \r\n• Support the project management team in the planning, tracking, analysis, and reporting of project, including dashboard maintenance.\r\n• Work in collaboration with Construction management team to drive consistency of the project scheduling approach to facilitate accuracy in project execution and reporting.\r\n• Troubleshoot and monitor potential scheduling problems.\r\n• Maintain accurate records/paperwork.\r\n• Facilitate and participate in weekly schedule reviews.\r\n•Training of Foremen, Supervisors & Construction Manager to learn, or increase skills in, project scheduling company wide.",
+               "companyId": 306613,
+               "channel": "top_management",
+               "expiredDate": 1561741199,
+               "locationVIs": [
+                  "Hà Nội"
+               ],
+               "locations": [
+                  "Ha Noi"
+               ],
+               "locationIds": [
+                  24
+               ],
+               "categoryVIs": [
+                  "Xây dựng",
+                  "Cấp quản lý điều hành",
+                  "Hoạch định/Dự án"
+               ],
+               "categories": [
+                  "Civil/Construction",
+                  "Executive management",
+                  "Planning/Projects"
+               ],
+               "categoryIds": [
+                  7,
+                  17,
+                  69
+               ],
+               "benefits": [
+                  {
+                     "benefitIconName": "fa-dollar",
+                     "benefitValue": "Attractive salary and bonus",
+                     "benefitId": 1
+                  },
+                  {
+                     "benefitIconName": "fa-user-md",
+                     "benefitValue": "Social insurance, health insurance, unemployment insurance according to Labor Laws",
+                     "benefitId": 2
+                  },
+                  {
+                     "benefitIconName": "fa-file-image-o",
+                     "benefitValue": "Opportunities to be trained in the professional environment to maximize your potential",
+                     "benefitId": 3
+                  }
+               ],
+               "companyLogo": "https://images.vietnamworks.com/pictureofcompany/1f/10812809.png",
+               "mainCompanyId": 306613,
+               "premiumService": "TMJ",
+               "TMJOrder": 1559131947,
+               "objectID": "1110576",
+               "_highlightResult": {
+                  "jobTitle": {
+                     "value": "Construction Project Planning Manager",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "company": {
+                     "value": "Công Ty Cổ Phần Nước Mặt Sông Hồng",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "jobDescription": {
+                     "value": "• Work closely with Employer, Designers and Contractors to develop and maintain detailed schedules of Design/Build construction projects using MS Project 2016 or Primavera P3 or P6\r\n• Integrate multiple schedules into a master project schedule, base line, status, and perform measurement baseline. \r\n• Develop and maintain summary level schedule reports: Gantt, milestone charts, and other tools used to support critical path analysis, near-term tasks work, priority-based resource allocations, performance variances, and to support cost/schedule integration.\r\n• Gather and analyse information to prepare reports on the progress of \r\nprojects. Frequent on -site visits to review construction progress required. \r\n• Support the project management team in the planning, tracking, analysis, and reporting of project, including dashboard maintenance.\r\n• Work in collaboration with Construction management team to drive consistency of the project scheduling approach to facilitate accuracy in project execution and reporting.\r\n• Troubleshoot and monitor potential scheduling problems.\r\n• Maintain accurate records/paperwork.\r\n• Facilitate and participate in weekly schedule reviews.\r\n•Training of Foremen, Supervisors & Construction Manager to learn, or increase skills in, project scheduling company wide.",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  }
+               }
+            },
+            {
+               "jobId": 1110566,
+               "jobTitle": "Project Finance Manager",
+               "alias": "project-finance-manager",
+               "onlineDate": 1559131832,
+               "isSalaryVisible": 0,
+               "isShowLogo": 1,
+               "isShowLogoInSearchResult": 0,
+               "company": "Công Ty Cổ Phần Nước Mặt Sông Hồng",
+               "salaryMin": 200,
+               "salaryMax": 0,
+               "jobSalary": 200,
+               "jobDescription": "•\tEnsure project monitoring and cost controls are in place and functional\r\n•\tResponsible to liaise with Quantity Surveyors and Lander/Shareholders on certifications and collections\r\n•\tProduce financial and cost management reports\r\n•\tMonitor cash flows and predict future requirements\r\n•\tCompile and analyse financial data in order to allow Project Director to do sound financial decisions in running the project\r\n•\tAnalyse project costs, pricing and the company's actual performance compared to plans\r\n•\tOversee operations of the finance department; objectives and design a framework for these to be met. \r\n•\tmanage audits\r\n•\tBuild, Lead, manage and control a competent team driven by results.\r\n•\tEnsure workload is covered effectively and processes are being followed.\r\n•\tDevelop and maintain with the Project Director KPI's for the team. Set goals, monitor progress, and direct the workflow of the department to assure standards are met.\r\n•\tResponsible for regular performance evaluations and annual review of performance expectation of the finance department.\r\n•\tPerform all other duties as assigned by the Project Director",
+               "companyId": 306613,
+               "channel": "top_management",
+               "expiredDate": 1561741199,
+               "locationVIs": [
+                  "Hà Nội"
+               ],
+               "locations": [
+                  "Ha Noi"
+               ],
+               "locationIds": [
+                  24
+               ],
+               "categoryVIs": [
+                  "Kế toán",
+                  "Cấp quản lý điều hành",
+                  "Tài chính/Đầu tư"
+               ],
+               "categories": [
+                  "Accounting",
+                  "Executive management",
+                  "Finance/Investment"
+               ],
+               "categoryIds": [
+                  1,
+                  17,
+                  59
+               ],
+               "benefits": [
+                  {
+                     "benefitIconName": "fa-dollar",
+                     "benefitValue": "Attractive salary and bonus",
+                     "benefitId": 1
+                  },
+                  {
+                     "benefitIconName": "fa-user-md",
+                     "benefitValue": "Social insurance, health insurance, unemployment insurance according to Labor Laws",
+                     "benefitId": 2
+                  },
+                  {
+                     "benefitIconName": "fa-file-image-o",
+                     "benefitValue": "Opportunities to be trained in the professional environment to maximize your potential",
+                     "benefitId": 3
+                  }
+               ],
+               "companyLogo": "https://images.vietnamworks.com/pictureofcompany/1f/10812809.png",
+               "mainCompanyId": 306613,
+               "premiumService": "TMJ",
+               "TMJOrder": 1559131832,
+               "objectID": "1110566",
+               "_highlightResult": {
+                  "jobTitle": {
+                     "value": "Project Finance Manager",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "company": {
+                     "value": "Công Ty Cổ Phần Nước Mặt Sông Hồng",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "jobDescription": {
+                     "value": "•\tEnsure project monitoring and cost controls are in place and functional\r\n•\tResponsible to liaise with Quantity Surveyors and Lander/Shareholders on certifications and collections\r\n•\tProduce financial and cost management reports\r\n•\tMonitor cash flows and predict future requirements\r\n•\tCompile and analyse financial data in order to allow Project Director to do sound financial decisions in running the project\r\n•\tAnalyse project costs, pricing and the company's actual performance compared to plans\r\n•\tOversee operations of the finance department; objectives and design a framework for these to be met. \r\n•\tmanage audits\r\n•\tBuild, Lead, manage and control a competent team driven by results.\r\n•\tEnsure workload is covered effectively and processes are being followed.\r\n•\tDevelop and maintain with the Project Director KPI's for the team. Set goals, monitor progress, and direct the workflow of the department to assure standards are met.\r\n•\tResponsible for regular performance evaluations and annual review of performance expectation of the finance department.\r\n•\tPerform all other duties as assigned by the Project Director",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  }
+               }
+            },
+            {
+               "jobId": 1110562,
+               "jobTitle": "Construction Manager",
+               "alias": "construction-manager-43",
+               "onlineDate": 1559131570,
+               "isSalaryVisible": 0,
+               "isShowLogo": 1,
+               "isShowLogoInSearchResult": 0,
+               "company": "Công Ty Cổ Phần Nước Mặt Sông Hồng",
+               "salaryMin": 500,
+               "salaryMax": 0,
+               "jobSalary": 500,
+               "jobDescription": "Construction Manager Job Summary\r\n\r\nWe are seeking a results-driven Construction manager to join our growing organization. In this position, you will serve as the point of contact for contractors and be expected to liaise between crew members and management. You must possess strong organizational and communication skills and work proficiently both individually and in teams.\r\n\r\nConstruction Manager Job Description, Duties, Tasks, and Responsibilities\r\n\r\n•\tDiscuss with clients, consult with architects, and surveyors, before commencing a project\r\n•\tEmploy the required number of competent workers for a project after reaching an agreement with the client, making\r\n•\tSupervise workers and make sure they are well engaged and not distracted during work periods\r\n•\tKeep an eye on expenditure to avoid spending more than is budgeted for; also ensure the capital allotted for project is enough to complete it as earlier discussed with the client\r\n•\tMake plans for the construction of a building before laying its foundation; take note of the building’s specifications, such as its width and length as drawn by the architect, making sure that everything is in order\r\n•\tProvide basic needs like temporary office, toilet, and bathroom for workers\r\n•\tMay help clients in advertising their projects after they have been completed to get occupants for them if they are buildings for rent",
+               "companyId": 306613,
+               "channel": "top_management",
+               "expiredDate": 1561741199,
+               "locationVIs": [
+                  "Hà Nội"
+               ],
+               "locations": [
+                  "Ha Noi"
+               ],
+               "locationIds": [
+                  24
+               ],
+               "categoryVIs": [
+                  "Xây dựng",
+                  "Cấp quản lý điều hành",
+                  "Hoạch định/Dự án"
+               ],
+               "categories": [
+                  "Civil/Construction",
+                  "Executive management",
+                  "Planning/Projects"
+               ],
+               "categoryIds": [
+                  7,
+                  17,
+                  69
+               ],
+               "benefits": [
+                  {
+                     "benefitIconName": "fa-dollar",
+                     "benefitValue": "Attractive salary",
+                     "benefitId": 1
+                  },
+                  {
+                     "benefitIconName": "fa-user-md",
+                     "benefitValue": "Social insurance, health insurance, unemployment insurance according to Labor Laws",
+                     "benefitId": 2
+                  },
+                  {
+                     "benefitIconName": "fa-file-image-o",
+                     "benefitValue": "Opportunities to be trained in the professional environment to maximize your potential",
+                     "benefitId": 3
+                  }
+               ],
+               "companyLogo": "https://images.vietnamworks.com/pictureofcompany/1f/10812809.png",
+               "mainCompanyId": 306613,
+               "premiumService": "TMJ",
+               "TMJOrder": 1559131570,
+               "objectID": "1110562",
+               "_highlightResult": {
+                  "jobTitle": {
+                     "value": "Construction Manager",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "company": {
+                     "value": "Công Ty Cổ Phần Nước Mặt Sông Hồng",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "jobDescription": {
+                     "value": "Construction Manager Job Summary\r\n\r\nWe are seeking a results-driven Construction manager to join our growing organization. In this position, you will serve as the point of contact for contractors and be expected to liaise between crew members and management. You must possess strong organizational and communication skills and work proficiently both individually and in teams.\r\n\r\nConstruction Manager Job Description, Duties, Tasks, and Responsibilities\r\n\r\n•\tDiscuss with clients, consult with architects, and surveyors, before commencing a project\r\n•\tEmploy the required number of competent workers for a project after reaching an agreement with the client, making\r\n•\tSupervise workers and make sure they are well engaged and not distracted during work periods\r\n•\tKeep an eye on expenditure to avoid spending more than is budgeted for; also ensure the capital allotted for project is enough to complete it as earlier discussed with the client\r\n•\tMake plans for the construction of a building before laying its foundation; take note of the building’s specifications, such as its width and length as drawn by the architect, making sure that everything is in order\r\n•\tProvide basic needs like temporary office, toilet, and bathroom for workers\r\n•\tMay help clients in advertising their projects after they have been completed to get occupants for them if they are buildings for rent",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  }
+               }
+            },
+            {
+               "jobId": 1110550,
+               "jobTitle": "Human Resources Manager",
+               "alias": "human-resources-manager-179",
+               "onlineDate": 1559131208,
+               "isSalaryVisible": 0,
+               "isShowLogo": 1,
+               "isShowLogoInSearchResult": 0,
+               "company": "Công Ty Cổ Phần Nước Mặt Sông Hồng",
+               "salaryMin": 200,
+               "salaryMax": 0,
+               "jobSalary": 200,
+               "jobDescription": "We are looking for an HR manager to oversee all aspects of human resources practices and processes\r\nTo HRSW, an HR manager is the go-to person for all employee-related issues. This means that your HR manager duties will involve managing activities such as job definition, recruitment, employee relations, performance management, training & development and talent management\r\nThe job of HR manager is important to business success. People are our most important asset and you’ll be the one to ensure we have a happy and productive workplace where everyone works to realize our established mission and objectives. Promoting corporate values and shaping a positive culture is a vital aspect of a complete HR manager job description and duties.\r\nResponsibilities\r\n•\tMaintains the work structure by updating job requirements and job descriptions for all positions.\r\n•\tMaintains organization staff by establishing a recruiting, testing, and interviewing program; counselling managers on candidate selection; conducting and analysing exit interviews; recommending changes.\r\n•\tPrepares employees for assignments by establishing and conducting orientation and training programs.\r\n•\tMaintains a pay plan by conducting periodic pay surveys; scheduling and conducting job evaluations; preparing pay budgets; monitoring and scheduling individual pay actions; recommending, planning, and implementing pay structure revisions.\r\n•\tEnsures planning, monitoring, and appraisal of employee work results by training managers to coach and discipline employees; scheduling management conferences with employees; hearing and resolving employee grievances; counselling employees and supervisors.\r\n•\tMaintains employee benefits programs and informs employees of benefits by studying and assessing benefit needs and trends; recommending benefit programs to management; directing the processing of benefit claims; obtaining and evaluating benefit contract bids; awarding benefit contracts; designing and conducting educational programs on benefit programs.\r\n•\tNurture a positive working environment\r\n•\tEnsures legal compliance by monitoring and implementing applicable human resource Country requirements; conducting investigations; maintaining records; representing the organization at hearings.\r\n•\tMaintains management guidelines by preparing, updating, and recommending human resource policies and procedures.\r\n•\tMaintains historical human resource records by designing a filing and retrieval system; keeping past and current records.\r\n•\tMaintains professional and technical knowledge by attending educational workshops; reviewing professional publications; establishing personal networks; participating in professional societies.\r\n•\tCompletes human resource operational requirements by scheduling and assigning employees; following up on work results.\r\n•\tMaintains human resource staff by recruiting, selecting, orienting, and training employees.\r\n•\tMaintains human resource staff job results by counseling and disciplining employees; planning, monitoring, and appraising job results.\r\n•\tContributes to team effort by accomplishing related results as needed.",
+               "companyId": 306613,
+               "channel": "top_management",
+               "expiredDate": 1561741199,
+               "locationVIs": [
+                  "Hà Nội"
+               ],
+               "locations": [
+                  "Ha Noi"
+               ],
+               "locationIds": [
+                  24
+               ],
+               "categoryVIs": [
+                  "Dịch vụ khách hàng",
+                  "Cấp quản lý điều hành",
+                  "Nhân sự"
+               ],
+               "categories": [
+                  "Customer Service",
+                  "Executive management",
+                  "Human Resources"
+               ],
+               "categoryIds": [
+                  11,
+                  17,
+                  23
+               ],
+               "benefits": [
+                  {
+                     "benefitIconName": "fa-dollar",
+                     "benefitValue": "Môi trường chuyên nghiệp, nhiệt tình, năng động, có cơ hội học hỏi",
+                     "benefitId": 1
+                  }
+               ],
+               "companyLogo": "https://images.vietnamworks.com/pictureofcompany/1f/10812809.png",
+               "mainCompanyId": 306613,
+               "premiumService": "TMJ",
+               "TMJOrder": 1559131208,
+               "objectID": "1110550",
+               "_highlightResult": {
+                  "jobTitle": {
+                     "value": "Human Resources Manager",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "company": {
+                     "value": "Công Ty Cổ Phần Nước Mặt Sông Hồng",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "jobDescription": {
+                     "value": "We are looking for an HR manager to oversee all aspects of human resources practices and processes\r\nTo HRSW, an HR manager is the go-to person for all employee-related issues. This means that your HR manager duties will involve managing activities such as job definition, recruitment, employee relations, performance management, training & development and talent management\r\nThe job of HR manager is important to business success. People are our most important asset and you’ll be the one to ensure we have a happy and productive workplace where everyone works to realize our established mission and objectives. Promoting corporate values and shaping a positive culture is a vital aspect of a complete HR manager job description and duties.\r\nResponsibilities\r\n•\tMaintains the work structure by updating job requirements and job descriptions for all positions.\r\n•\tMaintains organization staff by establishing a recruiting, testing, and interviewing program; counselling managers on candidate selection; conducting and analysing exit interviews; recommending changes.\r\n•\tPrepares employees for assignments by establishing and conducting orientation and training programs.\r\n•\tMaintains a pay plan by conducting periodic pay surveys; scheduling and conducting job evaluations; preparing pay budgets; monitoring and scheduling individual pay actions; recommending, planning, and implementing pay structure revisions.\r\n•\tEnsures planning, monitoring, and appraisal of employee work results by training managers to coach and discipline employees; scheduling management conferences with employees; hearing and resolving employee grievances; counselling employees and supervisors.\r\n•\tMaintains employee benefits programs and informs employees of benefits by studying and assessing benefit needs and trends; recommending benefit programs to management; directing the processing of benefit claims; obtaining and evaluating benefit contract bids; awarding benefit contracts; designing and conducting educational programs on benefit programs.\r\n•\tNurture a positive working environment\r\n•\tEnsures legal compliance by monitoring and implementing applicable human resource Country requirements; conducting investigations; maintaining records; representing the organization at hearings.\r\n•\tMaintains management guidelines by preparing, updating, and recommending human resource policies and procedures.\r\n•\tMaintains historical human resource records by designing a filing and retrieval system; keeping past and current records.\r\n•\tMaintains professional and technical knowledge by attending educational workshops; reviewing professional publications; establishing personal networks; participating in professional societies.\r\n•\tCompletes human resource operational requirements by scheduling and assigning employees; following up on work results.\r\n•\tMaintains human resource staff by recruiting, selecting, orienting, and training employees.\r\n•\tMaintains human resource staff job results by counseling and disciplining employees; planning, monitoring, and appraising job results.\r\n•\tContributes to team effort by accomplishing related results as needed.",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  }
+               }
+            },
+            {
+               "jobId": "1110114",
+               "jobTitle": "Tuyển Dụng Giám Đốc Kinh Doanh Bất Động Sản Lương Cao Tại Bình Dương",
+               "alias": "tuyen-dung-giam-doc-kinh-doanh-bat-dong-san-luong-cao-tai-binh-duong",
+               "onlineDate": 1559114317,
+               "isSalaryVisible": 0,
+               "isShowLogo": 1,
+               "isShowLogoInSearchResult": 0,
+               "company": "Nam Thái Bình Dương",
+               "salaryMin": 1000,
+               "salaryMax": 0,
+               "jobSalary": 1000,
+               "jobDescription": "- Tham mưu cho Ban tổng giám đốc trong việc xây dựng kế hoạch và chính sách kinh doanh, kế hoạch marketing, chương trình mục tiêu, chương trình hành động.\n- Tổ chức hoạt động kinh doanh theo chính sách và chương trình hành động chung của Công ty.\n- Kiểm tra, giám sát hoạt động kinh doanh và báo cáo định kỳ cho Ban Tổng Giám đốc.\n- Xây dựng kế hoạch định kỳ (định biên NS; tuyển dụng; đào tạo huấn luyện; đánh giá; khen thưởng, động viên…)\n- Tổ chức thực hiện công tác tuyển dụng nhân sự Sàn đảm bảo quy mô nhân sự tối thiểu theo quy định.\n- Tổ chức hoạt động đào tạo, huấn luyện nhân viên định kỳ.\n- Kiểm tra, giám sát tính tuân thủ của nhân viên (thực hiện nội quy, quy chế; công tác an ninh, chính trị…)\n- Phối hợp phòng Kế toán, HCKD trong công tác thanh quyết toán định kỳ.\n- Phối hợp phòng Marketing trong việc tổ chức triển khai các hoạt động kinh doanh, marketing.\n- Phối hợp phòng HCKD, Công nợ, Pháp lý, xây dựng trong các hoạt động Chăm sóc, giải quyết các phát sinh của khách hàng.\n- Phối hợp phòng Nhân sự trong các hoạt động Tuyển dụng, Đào tạo, huấn luyện nhân viên.\n- Phối hợp phòng Hành chính trong các hoạt động quản lý, kiểm kê tài sản, cấp phát trang thiết bị (nhân viên/Sàn).\n- Quản lý tài sản tại đơn vị.\n- Tham gia các sự kiện chung của Công ty.\n- Các công việc khác theo sự phân công điều động của Ban Tổng Giám đốc.",
+               "companyId": 306041,
+               "channel": "top_management",
+               "expiredDate": 1561741199,
+               "locationVIs": [
+                  "Bình Dương"
+               ],
+               "locations": [
+                  "Binh Duong"
+               ],
+               "locationIds": [
+                  11
+               ],
+               "categoryVIs": [
+                  "Cấp quản lý điều hành",
+                  "Bất động sản",
+                  "Bán hàng"
+               ],
+               "categories": [
+                  "Executive management",
+                  "Real Estate",
+                  "Sales"
+               ],
+               "categoryIds": [
+                  17,
+                  30,
+                  33
+               ],
+               "benefits": [
+                  {
+                     "benefitIconName": "fa-user-md",
+                     "benefitValue": "Được hưởng đầy đủ các chế độ BHXH, BHYT, BHTN, nghỉ lễ, Tết, hiếu, hỉ, thai sản, ốm đau, bệnh tật...",
+                     "benefitId": 2
+                  },
+                  {
+                     "benefitIconName": "fa-plane",
+                     "benefitValue": "Được đi du lịch trong và ngoài nước tối thiểu 4 lần/năm",
+                     "benefitId": 9
+                  },
+                  {
+                     "benefitIconName": "fa-check-square-o",
+                     "benefitValue": "Được làm việc trong 1 môi trường CHUYÊN NGHIỆP, NĂNG ĐỘNG, THÂN THIỆN.",
+                     "benefitId": 15
+                  }
+               ],
+               "companyLogo": "https://images.vietnamworks.com/pictureofcompany/b6/10812483.png",
+               "mainCompanyId": 306041,
+               "premiumService": "TMJ",
+               "TMJOrder": 1559114317,
+               "objectID": "1110114",
+               "_highlightResult": {
+                  "jobTitle": {
+                     "value": "Tuyển Dụng Giám Đốc Kinh Doanh Bất Động Sản Lương Cao Tại Bình Dương",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "company": {
+                     "value": "Nam Thái Bình Dương",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "jobDescription": {
+                     "value": "- Tham mưu cho Ban tổng giám đốc trong việc xây dựng kế hoạch và chính sách kinh doanh, kế hoạch marketing, chương trình mục tiêu, chương trình hành động.\n- Tổ chức hoạt động kinh doanh theo chính sách và chương trình hành động chung của Công ty.\n- Kiểm tra, giám sát hoạt động kinh doanh và báo cáo định kỳ cho Ban Tổng Giám đốc.\n- Xây dựng kế hoạch định kỳ (định biên NS; tuyển dụng; đào tạo huấn luyện; đánh giá; khen thưởng, động viên…)\n- Tổ chức thực hiện công tác tuyển dụng nhân sự Sàn đảm bảo quy mô nhân sự tối thiểu theo quy định.\n- Tổ chức hoạt động đào tạo, huấn luyện nhân viên định kỳ.\n- Kiểm tra, giám sát tính tuân thủ của nhân viên (thực hiện nội quy, quy chế; công tác an ninh, chính trị…)\n- Phối hợp phòng Kế toán, HCKD trong công tác thanh quyết toán định kỳ.\n- Phối hợp phòng Marketing trong việc tổ chức triển khai các hoạt động kinh doanh, marketing.\n- Phối hợp phòng HCKD, Công nợ, Pháp lý, xây dựng trong các hoạt động Chăm sóc, giải quyết các phát sinh của khách hàng.\n- Phối hợp phòng Nhân sự trong các hoạt động Tuyển dụng, Đào tạo, huấn luyện nhân viên.\n- Phối hợp phòng Hành chính trong các hoạt động quản lý, kiểm kê tài sản, cấp phát trang thiết bị (nhân viên/Sàn).\n- Quản lý tài sản tại đơn vị.\n- Tham gia các sự kiện chung của Công ty.\n- Các công việc khác theo sự phân công điều động của Ban Tổng Giám đốc.",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  }
+               }
+            },
+            {
+               "jobId": 1109401,
+               "jobTitle": "Senior Business Development Analyst",
+               "alias": "senior-business-development-analyst-5",
+               "onlineDate": 1559016268,
+               "isSalaryVisible": 1,
+               "isShowLogo": 1,
+               "isShowLogoInSearchResult": 0,
+               "company": "Golden Gate Trade & Service JSC",
+               "salaryMin": 1000,
+               "salaryMax": 2500,
+               "jobSalary": 2500,
+               "jobDescription": "-  Market Research: Looking for opportunities to expand the company’s business and improve the profits, including studying the trends of the market and developing plans based on the current market scenario as Competitor Analysis, Market Analysis in restaurant business, Market Entry Strategy, Strategic planning, Business planning. Full understanding on business transaction as franchising, join-venture...\r\n-  Resource and Product analysis: Make analysis on current situation: supply chain, finance, product,... Working closely with the Research & Development department/ Business unit in order to develop business models, menu in the logical way.\r\n-  Interdepartmental communication and social networking: Has to network with other people who are involved in the same work and experts in foods and beverage. Attending seminars, conferences and expos in order to keep track the developments in the field. Able to build partnership in business opportunity.\r\n-  Expert Advice for Finance and Legalities: Have to interact with Finance to know about the financial positions of company and assess if it is possible to move into a growth phase. And make business model with ensuring that the company gets a good return on its investment.\r\n- Search and creating automated working tools: Creating or research automated tools as pricing builder, menu builder, audit checklist on restaurants,... Expert in applying business model in working.",
+               "companyId": 73191,
+               "channel": "top_management",
+               "expiredDate": 1561654799,
+               "locationVIs": [
+                  "Hà Nội"
+               ],
+               "locations": [
+                  "Ha Noi"
+               ],
+               "locationIds": [
+                  24
+               ],
+               "categoryVIs": [
+                  "Cấp quản lý điều hành",
+                  "Hoạch định/Dự án",
+                  "Nhà hàng/Khách sạn"
+               ],
+               "categories": [
+                  "Executive management",
+                  "Planning/Projects",
+                  "Restaurant/Hotel"
+               ],
+               "categoryIds": [
+                  17,
+                  69,
+                  73
+               ],
+               "benefits": [
+                  {
+                     "benefitIconName": "fa-dollar",
+                     "benefitValue": "Mức lương thưởng cạnh tranh, hấp dẫn",
+                     "benefitId": 1
+                  },
+                  {
+                     "benefitIconName": "fa-laptop",
+                     "benefitValue": "Được cung cấp laptop làm việc cá nhân",
+                     "benefitId": 7
+                  },
+                  {
+                     "benefitIconName": "fa-gift",
+                     "benefitValue": "Giảm giá từ 10% - 30% khi sử dụng dịch vụ tại tất cả nhà hàng của Golden Gate",
+                     "benefitId": 13
+                  }
+               ],
+               "companyLogo": "https://images.vietnamworks.com/pictureofcompany/1a/10658920.png",
+               "mainCompanyId": 73191,
+               "premiumService": "TMJ",
+               "TMJOrder": 1559016268,
+               "objectID": "1109401",
+               "_highlightResult": {
+                  "jobTitle": {
+                     "value": "Senior Business Development Analyst",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "company": {
+                     "value": "Golden Gate Trade & Service JSC",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "jobDescription": {
+                     "value": "-  Market Research: Looking for opportunities to expand the company’s business and improve the profits, including studying the trends of the market and developing plans based on the current market scenario as Competitor Analysis, Market Analysis in restaurant business, Market Entry Strategy, Strategic planning, Business planning. Full understanding on business transaction as franchising, join-venture...\r\n-  Resource and Product analysis: Make analysis on current situation: supply chain, finance, product,... Working closely with the Research & Development department/ Business unit in order to develop business models, menu in the logical way.\r\n-  Interdepartmental communication and social networking: Has to network with other people who are involved in the same work and experts in foods and beverage. Attending seminars, conferences and expos in order to keep track the developments in the field. Able to build partnership in business opportunity.\r\n-  Expert Advice for Finance and Legalities: Have to interact with Finance to know about the financial positions of company and assess if it is possible to move into a growth phase. And make business model with ensuring that the company gets a good return on its investment.\r\n- Search and creating automated working tools: Creating or research automated tools as pricing builder, menu builder, audit checklist on restaurants,... Expert in applying business model in working.",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  }
+               }
+            },
+            {
+               "jobId": "1108146",
+               "jobTitle": "Trưởng Phòng Phát Triển Hệ Thống Đại Lý",
+               "alias": "truong-phong-phat-trien-he-thong-dai-ly-2",
+               "onlineDate": 1558684041,
+               "isSalaryVisible": 0,
+               "isShowLogo": 1,
+               "isShowLogoInSearchResult": 0,
+               "company": "Công Ty Cổ Phần Công Nghệ Bếp Toàn Cầu ( Kitchenlook)",
+               "salaryMin": 640,
+               "salaryMax": 0,
+               "jobSalary": 640,
+               "jobDescription": "-\tPhát triển hệ thống nhà phân phối và đại lý, cửa hàng thiết bị tại Hà Nội và các tỉnh phía Bắc\n-\tTuyển dụng và phát triển đội ngũ nhân viên\n-\tXây dựng chiến lược phát triển kinh doanh cho từng kênh\n-\tChi tiết sẽ trao đổi cụ thể khi phỏng vấn",
+               "companyId": 17759,
+               "channel": "top_management",
+               "expiredDate": 1561309199,
+               "locationVIs": [
+                  "Hà Nội"
+               ],
+               "locations": [
+                  "Ha Noi"
+               ],
+               "locationIds": [
+                  24
+               ],
+               "categoryVIs": [
+                  "Cấp quản lý điều hành",
+                  "Bán lẻ/Bán sỉ",
+                  "Bán hàng"
+               ],
+               "categories": [
+                  "Executive management",
+                  "Retail/Wholesale",
+                  "Sales"
+               ],
+               "categoryIds": [
+                  17,
+                  32,
+                  33
+               ],
+               "benefits": [
+                  {
+                     "benefitIconName": "fa-dollar",
+                     "benefitValue": "Lương từ 15 triệu trở lên + phụ cấp + thưởng doanh số",
+                     "benefitId": 1
+                  },
+                  {
+                     "benefitIconName": "fa-file-image-o",
+                     "benefitValue": "Được hưởng đầy đủ các quyền lợi theo luật lao động (BHYT & BHXH)",
+                     "benefitId": 3
+                  },
+                  {
+                     "benefitIconName": "fa-glass",
+                     "benefitValue": "Môi trường làm việc hiện đại chuyên nghiệp. Có nhiều cơ hội thăng tiến cao.",
+                     "benefitId": 10
+                  }
+               ],
+               "companyLogo": "https://images.vietnamworks.com/pictureofcompany/91/10391320.png",
+               "companyImage": "https://images.vietnamworks.com/company_profile/31450.png",
+               "mainCompanyId": 17759,
+               "premiumService": "TMJ",
+               "TMJOrder": 1558684041,
+               "objectID": "1108146",
+               "_highlightResult": {
+                  "jobTitle": {
+                     "value": "Trưởng Phòng Phát Triển Hệ Thống Đại Lý",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "company": {
+                     "value": "Công Ty Cổ Phần Công Nghệ Bếp Toàn Cầu ( Kitchenlook)",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  },
+                  "jobDescription": {
+                     "value": "-\tPhát triển hệ thống nhà phân phối và đại lý, cửa hàng thiết bị tại Hà Nội và các tỉnh phía Bắc\n-\tTuyển dụng và phát triển đội ngũ nhân viên\n-\tXây dựng chiến lược phát triển kinh doanh cho từng kênh\n-\tChi tiết sẽ trao đổi cụ thể khi phỏng vấn",
+                     "matchLevel": "none",
+                     "matchedWords": []
+                  }
+               }
+            }
+         ],
+         "nbHits": 590,
+         "page": 0,
+         "nbPages": 59,
+         "hitsPerPage": 10,
+         "processingTimeMS": 1,
+         "facets": {
+            "locations": {
+               "Ho Chi Minh": 282,
+               "Ha Noi": 248,
+               "Da Nang": 27,
+               "Binh Duong": 26,
+               "Bac Ninh": 19,
+               "Hai Phong": 18,
+               "Dong Nai": 17,
+               "Ha Nam": 9,
+               "Hai Duong": 9,
+               "Bac Giang": 8,
+               "Khanh Hoa": 8,
+               "Quang Ninh": 8,
+               "Bien Hoa": 7,
+               "Long An": 7,
+               "Ba Ria - Vung Tau": 6,
+               "Nghe An": 6,
+               "Vinh Phuc": 6,
+               "Binh Dinh": 5,
+               "Hung Yen": 5,
+               "Quang Nam": 5,
+               "Dak Lak": 4,
+               "Kien Giang": 4,
+               "Binh Phuoc": 3,
+               "Can Tho": 3,
+               "Lam Dong": 3,
+               "Quang Ngai": 3,
+               "Tay Ninh": 3,
+               "Thai Nguyen": 3,
+               "Thanh Hoa": 3,
+               "Ca Mau": 2,
+               "Gia Lai": 2,
+               "Hoa Binh": 2,
+               "Hue": 2,
+               "Lang Son": 2,
+               "Nam Dinh": 2,
+               "Other": 2,
+               "Phu Yen": 2,
+               "Tuyen Quang": 2,
+               "Ben Tre": 1,
+               "Binh Thuan": 1,
+               "Dong Thap": 1,
+               "Ha Giang": 1,
+               "Hau Giang": 1,
+               "International": 1,
+               "Mekong Delta": 1,
+               "Phu Tho": 1,
+               "Quang Binh": 1,
+               "Quang Tri": 1,
+               "Son La": 1,
+               "Thai Binh": 1
+            },
+            "categories": {
+               "Executive management": 590,
+               "Sales": 121,
+               "Human Resources": 66,
+               "Marketing": 64,
+               "Planning/Projects": 62,
+               "Finance/Investment": 58,
+               "Production/Process": 53,
+               "Administrative/Clerical": 41,
+               "Restaurant/Hotel": 40,
+               "Civil/Construction": 39,
+               "Banking": 37,
+               "Real Estate": 35,
+               "Customer Service": 32,
+               "Retail/Wholesale": 32,
+               "Education/Training": 29,
+               "Legal/Contracts": 29,
+               "Food & Beverage": 25,
+               "Advertising/Promotion/PR": 24,
+               "Health/Medical Care": 22,
+               "Merchandising/Purchasing/Supply Chain": 21,
+               "QA/QC": 20,
+               "Freight/Logistics": 18,
+               "Accounting": 17,
+               "Airlines/Tourism": 17,
+               "IT - Software": 16,
+               "Mechanical": 16,
+               "Electrical/Electronics": 15,
+               "Sales Technical": 13,
+               "Auto/Automotive": 12,
+               "FMCG": 12,
+               "Textiles/Garments/Footwear": 12,
+               "Architecture/Interior Design": 9,
+               "Fashion/Lifestyle": 9,
+               "Agriculture/Forestry": 8,
+               "Warehouse": 8,
+               "Chemical/Biochemical": 7,
+               "IT - Hardware/Networking": 7,
+               "Export-Import": 6,
+               "Industrial Products": 6,
+               "Pharmaceutical/Biotech": 6,
+               "TV/Media/Newspaper": 6,
+               "Consulting": 5,
+               "Expatriate Jobs in Vietnam": 5,
+               "HSE": 5,
+               "Internet/Online Media": 5,
+               "NGO/Non-Profit": 5,
+               "Pharmaceutical representatives": 5,
+               "Arts/Design": 4,
+               "Insurance": 4,
+               "Luxury Goods": 4,
+               "Pharmacist": 4,
+               "Printing": 4,
+               "Telecommunications": 4,
+               "Auditing": 3,
+               "Interpreter/Translator": 3,
+               "Maintenance": 3,
+               "Marine": 3,
+               "HVAC": 2,
+               "Overseas Jobs": 2,
+               "Securities & Trading": 2,
+               "Doctors": 1,
+               "High Technology": 1,
+               "Household": 1,
+               "Other": 1
+            },
+            "categoryVIs": {
+               "Cấp quản lý điều hành": 590,
+               "Bán hàng": 121,
+               "Nhân sự": 66,
+               "Marketing": 64,
+               "Hoạch định/Dự án": 62,
+               "Tài chính/Đầu tư": 58,
+               "Sản Xuất": 53,
+               "Hành chánh/Thư ký": 41,
+               "Nhà hàng/Khách sạn": 40,
+               "Xây dựng": 39,
+               "Ngân hàng": 37,
+               "Bất động sản": 35,
+               "Bán lẻ/Bán sỉ": 32,
+               "Dịch vụ khách hàng": 32,
+               "Giáo dục/Đào tạo": 29,
+               "Pháp lý": 29,
+               "Thực phẩm & Đồ uống": 25,
+               "Quảng cáo/Khuyến mãi/Đối ngoại": 24,
+               "Y tế/Chăm sóc sức khỏe": 22,
+               "Thu Mua/Vật Tư/Cung Vận": 21,
+               "QA/QC": 20,
+               "Vận chuyển/Giao nhận": 18,
+               "Hàng không/Du lịch": 17,
+               "Kế toán": 17,
+               "Cơ khí": 16,
+               "IT - Phần mềm": 16,
+               "Điện/Điện tử": 15,
+               "Bán hàng kỹ thuật": 13,
+               "Dệt may/Da giày": 12,
+               "Hàng tiêu dùng": 12,
+               "Tự động hóa/Ô tô": 12,
+               "Kiến trúc/Thiết kế nội thất": 9,
+               "Thời trang": 9,
+               "Kho vận": 8,
+               "Nông nghiệp/Lâm nghiệp": 8,
+               "Hóa học/Hóa sinh": 7,
+               "IT-Phần cứng/Mạng": 7,
+               "Dược Phẩm/Công nghệ sinh học": 6,
+               "Sản phẩm công nghiệp": 6,
+               "Truyền hình/Truyền thông/Báo chí": 6,
+               "Xuất nhập khẩu": 6,
+               "An toàn lao động": 5,
+               "Internet/Online Media": 5,
+               "Người nước ngoài/Việt Kiều": 5,
+               "Phi chính phủ/Phi lợi nhuận": 5,
+               "Trình dược viên": 5,
+               "Tư vấn": 5,
+               "Bảo hiểm": 4,
+               "Dược sĩ": 4,
+               "Hàng cao cấp": 4,
+               "In ấn/ Xuất bản": 4,
+               "Mỹ Thuật/Nghệ Thuật/Thiết Kế": 4,
+               "Viễn Thông": 4,
+               "Biên phiên dịch": 3,
+               "Bảo trì/Sửa chữa": 3,
+               "Hàng hải": 3,
+               "Kiểm toán": 3,
+               "Chứng khoán": 2,
+               "Overseas Jobs": 2,
+               "Điện lạnh/Nhiệt lạnh": 2,
+               "Bác sĩ": 1,
+               "Công nghệ cao": 1,
+               "Hàng gia dụng": 1,
+               "Khác": 1
+            },
+            "locationVIs": {
+               "Hồ Chí Minh": 282,
+               "Hà Nội": 248,
+               "Đà Nẵng": 27,
+               "Bình Dương": 26,
+               "Bắc Ninh": 19,
+               "Hải Phòng": 18,
+               "Đồng Nai": 17,
+               "Hà Nam": 9,
+               "Hải Dương": 9,
+               "Bắc Giang": 8,
+               "Khánh Hòa": 8,
+               "Quảng Ninh": 8,
+               "Biên Hòa": 7,
+               "Long An": 7,
+               "Bà Rịa - Vũng Tàu": 6,
+               "Nghệ An": 6,
+               "Vĩnh Phúc": 6,
+               "Bình Định": 5,
+               "Hưng Yên": 5,
+               "Quảng Nam": 5,
+               "Kiên Giang": 4,
+               "Đắk Lắk": 4,
+               "Bình Phước": 3,
+               "Cần Thơ": 3,
+               "Lâm Đồng": 3,
+               "Quảng Ngãi": 3,
+               "Thanh Hóa": 3,
+               "Thái Nguyên": 3,
+               "Tây Ninh": 3,
+               "Cà Mau": 2,
+               "Gia Lai": 2,
+               "Huế": 2,
+               "Hòa Bình": 2,
+               "Khác": 2,
+               "Lạng Sơn": 2,
+               "Nam Định": 2,
+               "Phú Yên": 2,
+               "Tuyên Quang": 2,
+               "Bình Thuận": 1,
+               "Bến Tre": 1,
+               "Hà Giang": 1,
+               "Hậu Giang": 1,
+               "Phú Thọ": 1,
+               "Quảng Bình": 1,
+               "Quảng Trị": 1,
+               "Quốc tế": 1,
+               "Sơn La": 1,
+               "Thái Bình": 1,
+               "ĐBSCL": 1,
+               "Đồng Tháp": 1
+            }
+         },
+         "exhaustiveFacetsCount": true,
+         "exhaustiveNbHits": true,
+         "query": "",
+         "params": "query=&hitsPerPage=10&page=0&facets=%5B%22categories%22%2C%22categoryVIs%22%2C%22locations%22%2C%22locationVIs%22%2C%22jobLevel%22%2C%22jobLevelVI%22%5D&tagFilters=&facetFilters=%5B%22categoryVIs%3AC%E1%BA%A5p%20qu%E1%BA%A3n%20l%C3%BD%20%C4%91i%E1%BB%81u%20h%C3%A0nh%22%5D&numericFilters=%5B%22expiredDate%3E%3D1559848933.828%22%5D",
+         "index": "vnw_job_extra_v2"
+      }
+   ]
 }
