@@ -13,12 +13,6 @@
   },
   "jobs":[
     { "id": 1, "name": "Ban hang online", "hotjob": 0},
-    { "id": 2, "name": "Lap trinh vien", "hotjob": 1},
-    { "id": 3, "name": "Ban hang online", "hotjob": 0},
-    { "id": 4, "name": "Lap trinh vien", "hotjob": 1},
-    { "id": 5, "name": "Ban hang online", "hotjob": 0},
-    { "id": 6, "name": "Lap trinh vien", "hotjob": 1},
-    { "id": 7, "name": "Ban hang online", "hotjob": 0},
-    { "id": 8, "name": "Lap trinh vien", "hotjob": 1}
+    { "id": 2, "name": "Lap trinh vien", "hotjob": 1}
   ]
 }
