@@ -19,6 +19,6 @@
     { "id": 5, "name": "Ban hang online", "hotjob": true},
     { "id": 6, "name": "Lap trinh vien", "hotjob": false},
     { "id": 7, "name": "Ban hang online", "hotjob": true},
-    { "id": 8, "name": "Lap trinh vien", "hotjob": false},
+    { "id": 8, "name": "Lap trinh vien", "hotjob": false}
   ]
 }
